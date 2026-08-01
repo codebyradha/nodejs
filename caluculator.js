@@ -20,8 +20,4 @@ function calculation(a,b)
     console.log("div:",a+b*b);
     console.log("add:",a+b+b+a);
 }
-function calculation(a,b)
-{
-    console.log("div:",a+b*b);
-    console.log("add:",a+b+b+a);
-}
+
