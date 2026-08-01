@@ -15,3 +15,8 @@ function calculation(a,b)
     console.log("multiplication:",a+b*b);
     console.log("addtion:",a+b+b+a);
 }
+function calculation(a,b)
+{
+    console.log("div:",a+b*b);
+    console.log("add:",a+b+b+a);
+}
